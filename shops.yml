@@ -1,0 +1,1354 @@
+shops:
+  redstone-shop:
+    items:
+      '1':
+        buy: 1.0
+        sell: 1.0
+        material: REDSTONE
+      '2':
+        buy: 10.0
+        sell: 9.0
+        material: REDSTONE_BLOCK
+      '3':
+        buy: 5.0
+        sell: 2.0
+        material: REDSTONE_TORCH
+      '4':
+        buy: 5.0
+        sell: 2.0
+        material: REPEATER
+      '5':
+        buy: 5.0
+        sell: 2.0
+        material: COMPARATOR
+      '6':
+        buy: 15.0
+        sell: 10.0
+        material: PISTON
+      '7':
+        buy: 15.0
+        sell: 10.0
+        material: STICKY_PISTON
+      '8':
+        buy: 5.0
+        sell: 2.0
+        material: OAK_PRESSURE_PLATE
+      '9':
+        buy: 5.0
+        sell: 2.0
+        material: OAK_BUTTON
+      '10':
+        buy: 5.0
+        sell: 2.0
+        material: LEVER
+      '11':
+        buy: 15.0
+        sell: 10.0
+        material: DAYLIGHT_DETECTOR
+      '12':
+        buy: 25.0
+        sell: 20.0
+        material: REDSTONE_LAMP
+      '13':
+        buy: 100000.0
+        sell: 0.0
+        material: COMMAND_BLOCK
+      '14':
+        buy: 5.0
+        sell: 0.0
+        material: POWERED_RAIL
+      '15':
+        buy: 5.0
+        sell: 0.0
+        material: DETECTOR_RAIL
+      '16':
+        buy: 5.0
+        sell: 0.0
+        material: ACTIVATOR_RAIL
+  mineral-shop:
+    items:
+      '1':
+        buy: 5.0
+        sell: 10.0
+        material: COAL
+      '2':
+        buy: 1.0
+        sell: 2.0
+        material: CHARCOAL
+      '3':
+        buy: 150.0
+        sell: 100.0
+        material: DIAMOND
+      '4':
+        buy: 40.0
+        sell: 35.0
+        material: LAPIS_LAZULI
+      '6':
+        buy: 25.0
+        sell: 20.0
+        material: IRON_INGOT
+      '7':
+        buy: 6.0
+        sell: 5.0
+        material: COPPER_INGOT
+      '8':
+        buy: 150.0
+        sell: 100.0
+        material: GOLD_INGOT
+      '9':
+        buy: 1000.0
+        sell: 500.0
+        material: NETHERITE_INGOT
+      '10':
+        buy: 10.0
+        sell: 10.0
+        material: FLINT
+      '11':
+        buy: 5.0
+        sell: 1.0
+        material: COBBLESTONE
+      '12':
+        buy: 1.0
+        sell: 1.0
+        material: DIRT
+      '13':
+        buy: 10.0
+        sell: 2.0
+        material: GRANITE
+      '14':
+        buy: 10.0
+        sell: 2.0
+        material: DIORITE
+      '15':
+        buy: 10.0
+        sell: 2.0
+        material: ANDESITE
+      '16':
+        buy: 10.0
+        sell: 2.0
+        material: TUFF
+      '17':
+        buy: 10.0
+        sell: 2.0
+        material: DEEPSLATE
+      '18':
+        buy: 35.0
+        sell: 20.0
+        material: COAL_BLOCK
+      '19':
+        buy: 0.0
+        sell: 2.0
+        material: GRAVEL
+      '20':
+        buy: 0.0
+        sell: 1.0
+        material: EMERALD
+      '5':
+        buy: 0.0
+        sell: 300.0
+        material: AMETHYST_SHARD
+  tool-shop:
+    items:
+      '5':
+        buy: 80.0
+        sell: 80.0
+        material: DIAMOND_SHOVEL
+      '6':
+        buy: 80.0
+        sell: 80.0
+        material: DIAMOND_PICKAXE
+      '7':
+        buy: 80.0
+        sell: 80.0
+        material: DIAMOND_AXE
+      '8':
+        buy: 80.0
+        sell: 80.0
+        material: DIAMOND_HOE
+      '9':
+        buy: 200.0
+        sell: 200.0
+        material: NETHERITE_SHOVEL
+      '10':
+        buy: 200.0
+        sell: 200.0
+        material: NETHERITE_PICKAXE
+      '11':
+        buy: 200.0
+        sell: 200.0
+        material: NETHERITE_AXE
+      '12':
+        buy: 60.0
+        sell: 60.0
+        material: COMPASS
+      '13':
+        buy: 20.0
+        sell: 20.0
+        material: FISHING_ROD
+      '14':
+        buy: 60.0
+        sell: 60.0
+        material: CLOCK
+      '15':
+        buy: 60.0
+        sell: 60.0
+        material: SPYGLASS
+      '16':
+        buy: 20.0
+        sell: 20.0
+        material: SHEARS
+      '1':
+        buy: 20.0
+        sell: 20.0
+        material: IRON_SHOVEL
+      '2':
+        buy: 20.0
+        sell: 20.0
+        material: IRON_PICKAXE
+      '3':
+        buy: 20.0
+        sell: 20.0
+        material: IRON_AXE
+      '4':
+        buy: 20.0
+        sell: 20.0
+        material: IRON_HOE
+      '17':
+        buy: 5.0
+        sell: 5.0
+        material: LEAD
+      '18':
+        buy: 10.0
+        sell: 10.0
+        material: NAME_TAG
+      '19':
+        buy: 100.0
+        sell: 0.0
+        material: ENDER_CHEST
+      '20':
+        buy: 10.0
+        sell: 0.0
+        material: CHEST
+      '21':
+        buy: 5.0
+        sell: 0.0
+        material: CRAFTING_TABLE
+      '22':
+        buy: 10.0
+        sell: 0.0
+        material: FURNACE
+      '23':
+        buy: 20.0
+        sell: 0.0
+        material: JUKEBOX
+      '24':
+        buy: 10.0
+        sell: 0.0
+        material: WHITE_SHULKER_BOX
+        shulker: {}
+      '25':
+        buy: 30.0
+        sell: 0.0
+        material: SMOKER
+      '26':
+        buy: 30.0
+        sell: 0.0
+        material: BLAST_FURNACE
+      '27':
+        buy: 30.0
+        sell: 0.0
+        material: ANVIL
+      '28':
+        buy: 30.0
+        sell: 0.0
+        material: STONECUTTER
+  armor-shop:
+    items:
+      '1':
+        buy: 20.0
+        sell: 10.0
+        material: IRON_HELMET
+      '2':
+        buy: 20.0
+        sell: 10.0
+        material: IRON_CHESTPLATE
+      '3':
+        buy: 20.0
+        sell: 10.0
+        material: IRON_LEGGINGS
+      '4':
+        buy: 20.0
+        sell: 10.0
+        material: IRON_BOOTS
+      '5':
+        buy: 300.0
+        sell: 100.0
+        material: DIAMOND_HELMET
+      '6':
+        buy: 300.0
+        sell: 100.0
+        material: DIAMOND_CHESTPLATE
+      '7':
+        buy: 300.0
+        sell: 100.0
+        material: DIAMOND_LEGGINGS
+      '8':
+        buy: 300.0
+        sell: 100.0
+        material: DIAMOND_BOOTS
+      '9':
+        buy: 50000.0
+        sell: 10000.0
+        material: NETHERITE_HELMET
+      '10':
+        buy: 50000.0
+        sell: 10000.0
+        material: NETHERITE_CHESTPLATE
+      '11':
+        buy: 50000.0
+        sell: 10000.0
+        material: NETHERITE_LEGGINGS
+      '12':
+        buy: 50000.0
+        sell: 10000.0
+        material: NETHERITE_BOOTS
+      '13':
+        buy: 20.0
+        sell: 10.0
+        material: SHIELD
+      '14':
+        buy: 25.0
+        sell: 10.0
+        material: ARMOR_STAND
+  food-shop:
+    items:
+      '1':
+        material: GOLDEN_APPLE
+        buy: 100.0
+        sell: 20.0
+      '2':
+        buy: 5.0
+        sell: 1.0
+        material: APPLE
+      '3':
+        buy: 5.0
+        sell: 5.0
+        material: BREAD
+      '4':
+        buy: 20.0
+        sell: 20.0
+        material: COOKED_PORKCHOP
+      '5':
+        buy: 25.0
+        sell: 20.0
+        material: COOKED_COD
+      '6':
+        buy: 40.0
+        sell: 35.0
+        material: CAKE
+      '7':
+        buy: 5.0
+        sell: 5.0
+        material: COOKIE
+      '8':
+        buy: 1.0
+        sell: 1.0
+        material: DRIED_KELP
+      '9':
+        buy: 30.0
+        sell: 25.0
+        material: COOKED_BEEF
+      '10':
+        buy: 40.0
+        sell: 35.0
+        material: COOKED_CHICKEN
+      '11':
+        buy: 0.0
+        sell: 2.0
+        material: POTATO
+      '12':
+        buy: 15.0
+        sell: 10.0
+        material: BAKED_POTATO
+      '13':
+        buy: 30.0
+        sell: 30.0
+        material: COOKED_RABBIT
+      '14':
+        buy: 30.0
+        sell: 30.0
+        material: COOKED_MUTTON
+      '15':
+        buy: 30.0
+        sell: 30.0
+        material: HONEY_BOTTLE
+      '16':
+        buy: 10.0
+        sell: 5.0
+        material: WHEAT
+      '17':
+        buy: 69.0
+        sell: 45.0
+        material: HAY_BLOCK
+      '18':
+        buy: 8.0
+        sell: 5.0
+        material: SUGAR
+      '19':
+        buy: 1.0
+        sell: 1.0
+        material: EGG
+      '20':
+        buy: 10.0
+        sell: 20.0
+        material: MELON
+      '21':
+        buy: 10.0
+        sell: 20.0
+        material: PUMPKIN
+      '22':
+        buy: 1.0
+        sell: 1.0
+        material: KELP
+      '23':
+        buy: 15.0
+        sell: 10.0
+        material: BEETROOT
+      '24':
+        buy: 15.0
+        sell: 10.0
+        material: MUSHROOM_STEW
+  dye-shop:
+    items:
+      '1':
+        buy: 2.0
+        sell: 0.0
+        material: WHITE_DYE
+      '2':
+        buy: 2.0
+        sell: 0.0
+        material: ORANGE_DYE
+      '3':
+        buy: 2.0
+        sell: 0.0
+        material: MAGENTA_DYE
+      '4':
+        buy: 2.0
+        sell: 0.0
+        material: LIGHT_BLUE_DYE
+      '5':
+        buy: 2.0
+        sell: 0.0
+        material: YELLOW_DYE
+      '6':
+        buy: 2.0
+        sell: 0.0
+        material: LIME_DYE
+      '7':
+        buy: 2.0
+        sell: 0.0
+        material: PINK_DYE
+      '8':
+        buy: 2.0
+        sell: 0.0
+        material: GRAY_DYE
+      '9':
+        buy: 2.0
+        sell: 0.0
+        material: LIGHT_GRAY_DYE
+      '10':
+        buy: 2.0
+        sell: 0.0
+        material: CYAN_DYE
+      '11':
+        buy: 2.0
+        sell: 0.0
+        material: PURPLE_DYE
+      '12':
+        buy: 2.0
+        sell: 0.0
+        material: BLUE_DYE
+      '13':
+        buy: 2.0
+        sell: 0.0
+        material: BROWN_DYE
+      '14':
+        buy: 2.0
+        sell: 0.0
+        material: GREEN_DYE
+      '15':
+        buy: 2.0
+        sell: 0.0
+        material: RED_DYE
+      '16':
+        buy: 2.0
+        sell: 0.0
+        material: BLACK_DYE
+      '17':
+        buy: 30.0
+        sell: 0.0
+        material: LOOM
+  wood-shop:
+    items:
+      '1':
+        buy: 2.0
+        sell: 3.0
+        material: SCAFFOLDING
+      '2':
+        buy: 5.0
+        sell: 5.0
+        material: OAK_SIGN
+      '3':
+        buy: 10.0
+        sell: 2.0
+        material: OAK_PLANKS
+      '4':
+        buy: 10.0
+        sell: 2.0
+        material: SPRUCE_PLANKS
+      '5':
+        buy: 10.0
+        sell: 2.0
+        material: BIRCH_PLANKS
+      '6':
+        buy: 10.0
+        sell: 2.0
+        material: JUNGLE_PLANKS
+      '7':
+        buy: 10.0
+        sell: 2.0
+        material: ACACIA_PLANKS
+      '8':
+        buy: 10.0
+        sell: 2.0
+        material: DARK_OAK_PLANKS
+      '9':
+        buy: 20.0
+        sell: 10.0
+        material: CRIMSON_PLANKS
+      '10':
+        buy: 20.0
+        sell: 10.0
+        material: WARPED_PLANKS
+      '11':
+        buy: 10.0
+        sell: 2.0
+        material: OAK_WOOD
+      '12':
+        buy: 10.0
+        sell: 2.0
+        material: SPRUCE_WOOD
+      '13':
+        buy: 10.0
+        sell: 2.0
+        material: BIRCH_WOOD
+      '14':
+        buy: 10.0
+        sell: 2.0
+        material: JUNGLE_WOOD
+      '15':
+        buy: 10.0
+        sell: 2.0
+        material: ACACIA_WOOD
+      '16':
+        buy: 10.0
+        sell: 2.0
+        material: DARK_OAK_WOOD
+      '17':
+        buy: 10.0
+        sell: 5.0
+        material: CRIMSON_HYPHAE
+      '18':
+        buy: 10.0
+        sell: 5.0
+        material: WARPED_HYPHAE
+      '19':
+        buy: 2.0
+        sell: 0.0
+        material: OAK_SAPLING
+      '20':
+        buy: 2.0
+        sell: 0.0
+        material: SPRUCE_SAPLING
+      '21':
+        buy: 2.0
+        sell: 0.0
+        material: BIRCH_SAPLING
+      '22':
+        buy: 2.0
+        sell: 0.0
+        material: JUNGLE_SAPLING
+      '23':
+        buy: 2.0
+        sell: 0.0
+        material: ACACIA_SAPLING
+      '24':
+        buy: 2.0
+        sell: 0.0
+        material: DARK_OAK_SAPLING
+      '25':
+        buy: 50.0
+        sell: 0.0
+        material: OAK_BOAT
+      '26':
+        buy: 5.0
+        sell: 5.0
+        material: RAIL
+  potion-shop:
+    items:
+      '1':
+        buy: 20.0
+        sell: 0.0
+        material: POTION
+        custom-effects: []
+        base-effect: NIGHT_VISION, true, false
+      '2':
+        buy: 20.0
+        sell: 0.0
+        material: POTION
+        custom-effects: []
+        base-effect: INVISIBILITY, true, false
+      '3':
+        buy: 20.0
+        sell: 0.0
+        material: POTION
+        custom-effects: []
+        base-effect: JUMP, false, true
+      '4':
+        buy: 20.0
+        sell: 0.0
+        material: POTION
+        custom-effects: []
+        base-effect: FIRE_RESISTANCE, true, false
+      '5':
+        buy: 20.0
+        sell: 0.0
+        material: POTION
+        custom-effects: []
+        base-effect: SPEED, false, true
+      '6':
+        buy: 20.0
+        sell: 0.0
+        material: POTION
+        custom-effects: []
+        base-effect: WATER_BREATHING, true, false
+      '7':
+        buy: 5.0
+        sell: 0.0
+        material: POTION
+        custom-effects: []
+        base-effect: INSTANT_HEAL, false, true
+      '8':
+        buy: 20.0
+        sell: 0.0
+        material: POTION
+        custom-effects: []
+        base-effect: STRENGTH, false, true
+      '9':
+        buy: 20.0
+        sell: 0.0
+        material: POTION
+        custom-effects: []
+        base-effect: SLOW_FALLING, true, false
+      '10':
+        buy: 1.0
+        sell: 0.0
+        material: GLASS_BOTTLE
+      '11':
+        buy: 30.0
+        sell: 0.0
+        material: LINGERING_POTION
+        custom-effects: []
+        base-effect: REGEN, false, true
+      '12':
+        buy: 30.0
+        sell: 0.0
+        material: LINGERING_POTION
+        custom-effects: []
+        base-effect: STRENGTH, false, false
+  enchantment-shop:
+    items:
+      '1':
+        material: ENCHANTED_BOOK
+        stored-enchants:
+          PROTECTION_FALL: 3
+        buy: 100.0
+        sell: 20.0
+      '2':
+        buy: 500.0
+        sell: 0.0
+        material: ENCHANTED_BOOK
+        stored-enchants:
+          DIG_SPEED: 5
+      '3':
+        buy: 500.0
+        sell: 0.0
+        material: ENCHANTED_BOOK
+        stored-enchants:
+          SILK_TOUCH: 1
+      '4':
+        buy: 500.0
+        sell: 0.0
+        material: ENCHANTED_BOOK
+        stored-enchants:
+          DURABILITY: 3
+      '5':
+        buy: 500.0
+        sell: 0.0
+        material: ENCHANTED_BOOK
+        stored-enchants:
+          LOOT_BONUS_BLOCKS: 3
+      '6':
+        buy: 500.0
+        sell: 0.0
+        material: ENCHANTED_BOOK
+        stored-enchants:
+          LUCK: 3
+      '7':
+        buy: 500.0
+        sell: 0.0
+        material: ENCHANTED_BOOK
+        stored-enchants:
+          LURE: 3
+      '8':
+        buy: 500.0
+        sell: 0.0
+        material: ENCHANTED_BOOK
+        stored-enchants:
+          MENDING: 1
+      '9':
+        buy: 500.0
+        sell: 0.0
+        material: ENCHANTED_BOOK
+        stored-enchants:
+          PROTECTION_ENVIRONMENTAL: 4
+      '10':
+        buy: 500.0
+        sell: 0.0
+        material: ENCHANTED_BOOK
+        stored-enchants:
+          PROTECTION_FIRE: 4
+      '11':
+        buy: 500.0
+        sell: 0.0
+        material: ENCHANTED_BOOK
+        stored-enchants:
+          PROTECTION_FALL: 4
+      '12':
+        buy: 500.0
+        sell: 0.0
+        material: ENCHANTED_BOOK
+        stored-enchants:
+          PROTECTION_EXPLOSIONS: 4
+      '13':
+        buy: 500.0
+        sell: 0.0
+        material: ENCHANTED_BOOK
+        stored-enchants:
+          PROTECTION_PROJECTILE: 4
+      '14':
+        buy: 500.0
+        sell: 0.0
+        material: ENCHANTED_BOOK
+        stored-enchants:
+          OXYGEN: 3
+      '15':
+        buy: 500.0
+        sell: 0.0
+        material: ENCHANTED_BOOK
+        stored-enchants:
+          WATER_WORKER: 1
+      '16':
+        buy: 500.0
+        sell: 0.0
+        material: ENCHANTED_BOOK
+        stored-enchants:
+          THORNS: 3
+      '17':
+        buy: 500.0
+        sell: 0.0
+        material: ENCHANTED_BOOK
+        stored-enchants:
+          DEPTH_STRIDER: 3
+      '18':
+        buy: 500.0
+        sell: 0.0
+        material: ENCHANTED_BOOK
+        stored-enchants:
+          SOUL_SPEED: 3
+      '19':
+        buy: 500.0
+        sell: 0.0
+        material: ENCHANTED_BOOK
+        stored-enchants:
+          DAMAGE_ALL: 5
+      '20':
+        buy: 500.0
+        sell: 0.0
+        material: ENCHANTED_BOOK
+        stored-enchants:
+          DAMAGE_UNDEAD: 5
+      '21':
+        buy: 500.0
+        sell: 0.0
+        material: ENCHANTED_BOOK
+        stored-enchants:
+          DAMAGE_ARTHROPODS: 5
+      '22':
+        buy: 500.0
+        sell: 0.0
+        material: ENCHANTED_BOOK
+        stored-enchants:
+          KNOCKBACK: 2
+      '23':
+        buy: 500.0
+        sell: 0.0
+        material: ENCHANTED_BOOK
+        stored-enchants:
+          FIRE_ASPECT: 2
+      '24':
+        buy: 500.0
+        sell: 0.0
+        material: ENCHANTED_BOOK
+        stored-enchants:
+          LOOT_BONUS_MOBS: 3
+      '25':
+        buy: 500.0
+        sell: 0.0
+        material: ENCHANTED_BOOK
+        stored-enchants:
+          SWEEPING_EDGE: 3
+      '26':
+        buy: 500.0
+        sell: 0.0
+        material: ENCHANTED_BOOK
+        stored-enchants:
+          ARROW_KNOCKBACK: 2
+      '27':
+        buy: 500.0
+        sell: 0.0
+        material: ENCHANTED_BOOK
+        stored-enchants:
+          ARROW_FIRE: 1
+      '28':
+        buy: 500.0
+        sell: 0.0
+        material: ENCHANTED_BOOK
+        stored-enchants:
+          ARROW_INFINITE: 1
+      '29':
+        buy: 500.0
+        sell: 0.0
+        material: ENCHANTED_BOOK
+        stored-enchants:
+          LOYALTY: 3
+      '30':
+        buy: 500.0
+        sell: 0.0
+        material: ENCHANTED_BOOK
+        stored-enchants:
+          IMPALING: 5
+      '31':
+        buy: 500.0
+        sell: 0.0
+        material: ENCHANTED_BOOK
+        stored-enchants:
+          RIPTIDE: 3
+      '32':
+        buy: 500.0
+        sell: 0.0
+        material: ENCHANTED_BOOK
+        stored-enchants:
+          CHANNELING: 1
+      '33':
+        buy: 500.0
+        sell: 0.0
+        material: ENCHANTED_BOOK
+        stored-enchants:
+          MULTISHOT: 1
+      '34':
+        buy: 500.0
+        sell: 0.0
+        material: ENCHANTED_BOOK
+        stored-enchants:
+          QUICK_CHARGE: 3
+      '35':
+        buy: 500.0
+        sell: 0.0
+        material: ENCHANTED_BOOK
+        stored-enchants:
+          PIERCING: 4
+      '36':
+        buy: 500.0
+        sell: 0.0
+        material: ENCHANTED_BOOK
+        stored-enchants:
+          VANISHING_CURSE: 1
+  block-shop:
+    items:
+      '1':
+        buy: 0.0
+        sell: 10.0
+        material: IRON_BLOCK
+      '2':
+        buy: 0.0
+        sell: 2.0
+        material: COPPER_BLOCK
+      '3':
+        buy: 0.0
+        sell: 50.0
+        material: GOLD_BLOCK
+      '4':
+        buy: 0.0
+        sell: 100.0
+        material: DIAMOND_BLOCK
+      '5':
+        buy: 0.0
+        sell: 10000.0
+        material: NETHERITE_BLOCK
+      '7':
+        buy: 5.0
+        sell: 5.0
+        material: STONE
+      '8':
+        buy: 5.0
+        sell: 5.0
+        material: STONE_BRICKS
+      '9':
+        buy: 5.0
+        sell: 5.0
+        material: MOSSY_STONE_BRICKS
+      '10':
+        buy: 5.0
+        sell: 5.0
+        material: CRACKED_STONE_BRICKS
+      '11':
+        buy: 5.0
+        sell: 5.0
+        material: CHISELED_STONE_BRICKS
+      '12':
+        buy: 5.0
+        sell: 5.0
+        material: SMOOTH_STONE
+      '13':
+        buy: 15.0
+        sell: 15.0
+        material: DEEPSLATE_TILES
+      '14':
+        buy: 15.0
+        sell: 15.0
+        material: CRACKED_DEEPSLATE_TILES
+      '15':
+        buy: 15.0
+        sell: 15.0
+        material: DEEPSLATE_BRICKS
+      '16':
+        buy: 15.0
+        sell: 15.0
+        material: CHISELED_DEEPSLATE
+      '17':
+        buy: 15.0
+        sell: 15.0
+        material: BLACKSTONE
+      '18':
+        buy: 15.0
+        sell: 15.0
+        material: POLISHED_BLACKSTONE
+      '19':
+        buy: 15.0
+        sell: 15.0
+        material: CHISELED_POLISHED_BLACKSTONE
+      '20':
+        buy: 15.0
+        sell: 15.0
+        material: POLISHED_BLACKSTONE_BRICKS
+      '21':
+        buy: 15.0
+        sell: 15.0
+        material: CRACKED_POLISHED_BLACKSTONE_BRICKS
+      '22':
+        buy: 15.0
+        sell: 15.0
+        material: ORANGE_TERRACOTTA
+      '23':
+        buy: 15.0
+        sell: 15.0
+        material: LIGHT_GRAY_CONCRETE
+      '24':
+        buy: 15.0
+        sell: 15.0
+        material: GLASS
+      '25':
+        buy: 5.0
+        sell: 5.0
+        material: GLASS_PANE
+      '26':
+        buy: 15.0
+        sell: 15.0
+        material: TINTED_GLASS
+      '27':
+        buy: 9.0
+        sell: 9.0
+        material: EMERALD_BLOCK
+      '6':
+        buy: 500.0
+        sell: 500.0
+        material: AMETHYST_BLOCK
+      '28':
+        buy: 4.0
+        sell: 4.0
+        material: CALCITE
+  banner-shop:
+    items:
+      '1':
+        buy: 500.0
+        sell: 20.0
+        material: ORANGE_BANNER
+        patterns:
+          STRIPE_SMALL: MAGENTA
+  weapon-shop:
+    items:
+      '1':
+        buy: 100.0
+        sell: 20.0
+        material: DIRT
+      '2':
+        buy: 1.0
+        sell: 1.0
+        material: ARROW
+      '3':
+        buy: 1000.0
+        sell: 0.0
+        material: NETHERITE_AXE
+        name: Viking Axe
+        lore:
+        - 'Viking law states: If you can''t steal it, destroy it.'
+        enchants:
+          DAMAGE_ALL: 10
+          DIG_SPEED: 5
+          DURABILITY: 3
+      '4':
+        buy: 45.0
+        sell: 30.0
+        material: IRON_SWORD
+      '5':
+        buy: 200.0
+        sell: 100.0
+        material: DIAMOND_SWORD
+      '6':
+        buy: 1000.0
+        sell: 500.0
+        material: NETHERITE_SWORD
+      '7':
+        buy: 10.0
+        sell: 5.0
+        material: TIPPED_ARROW
+        custom-effects: []
+        base-effect: NIGHT_VISION, true, false
+      '8':
+        buy: 10.0
+        sell: 5.0
+        material: TIPPED_ARROW
+        custom-effects: []
+        base-effect: INVISIBILITY, true, false
+      '9':
+        buy: 10.0
+        sell: 5.0
+        material: TIPPED_ARROW
+        custom-effects: []
+        base-effect: JUMP, false, true
+      '10':
+        buy: 10.0
+        sell: 5.0
+        material: TIPPED_ARROW
+        custom-effects: []
+        base-effect: FIRE_RESISTANCE, true, false
+      '11':
+        buy: 10.0
+        sell: 5.0
+        material: TIPPED_ARROW
+        custom-effects: []
+        base-effect: SPEED, false, true
+      '12':
+        buy: 10.0
+        sell: 5.0
+        material: TIPPED_ARROW
+        custom-effects: []
+        base-effect: INSTANT_HEAL, false, true
+      '13':
+        buy: 10.0
+        sell: 5.0
+        material: TIPPED_ARROW
+        custom-effects: []
+        base-effect: POISON, false, true
+      '14':
+        buy: 10.0
+        sell: 5.0
+        material: TIPPED_ARROW
+        custom-effects: []
+        base-effect: REGEN, false, true
+      '15':
+        buy: 10.0
+        sell: 5.0
+        material: TIPPED_ARROW
+        custom-effects: []
+        base-effect: STRENGTH, false, true
+  end-shop:
+    items:
+      '1':
+        buy: 10.0
+        sell: 20.0
+        material: CHORUS_FRUIT
+      '2':
+        buy: 30.0
+        sell: 10.0
+        material: PHANTOM_MEMBRANE
+      '3':
+        buy: 1000.0
+        sell: 500.0
+        material: ELYTRA
+  firework-shop:
+    items:
+      '1':
+        buy: 200.0
+        sell: 20.0
+        name: '&aCreeper Rocket'
+        material: FIREWORK_ROCKET
+        power: 2
+        firework:
+          '1':
+            type: BALL_LARGE
+            flicker: true
+            trail: false
+            base-colors:
+            - 59, 81, 26
+            - 65, 205, 52
+            fade-colors:
+            - 59, 81, 26
+          '2':
+            type: CREEPER
+            flicker: false
+            trail: true
+            base-colors:
+            - 65, 205, 52
+            fade-colors:
+            - 65, 205, 52
+      '2':
+        buy: 1.0
+        sell: 0.0
+        material: FIREWORK_ROCKET
+        power: 0
+  nether-shop:
+    items:
+      '2':
+        buy: 60.0
+        sell: 30.0
+        material: QUARTZ
+      '3':
+        buy: 10.0
+        sell: 10.0
+        material: GLOWSTONE_DUST
+      '4':
+        buy: 5.0
+        sell: 5.0
+        material: GOLD_NUGGET
+      '5':
+        buy: 10.0
+        sell: 10.0
+        material: BLAZE_POWDER
+      '6':
+        buy: 10.0
+        sell: 10.0
+        material: BLAZE_ROD
+      '7':
+        buy: 10.0
+        sell: 10.0
+        material: BASALT
+      '1':
+        buy: 5.0
+        sell: 5.0
+        material: BROWN_MUSHROOM
+      '8':
+        buy: 5.0
+        sell: 5.0
+        material: RED_MUSHROOM
+      '9':
+        buy: 5.0
+        sell: 5.0
+        material: CRIMSON_FUNGUS
+      '10':
+        buy: 5.0
+        sell: 5.0
+        material: WARPED_FUNGUS
+      '11':
+        buy: 20.0
+        sell: 5.0
+        material: WARPED_FUNGUS_ON_A_STICK
+      '12':
+        buy: 50.0
+        sell: 30.0
+        material: LAVA_BUCKET
+  spawner-shop:
+    items: {}
+  misc-shop:
+    items:
+      '1':
+        material: BONE
+        buy: 1.0
+        sell: 1.0
+      '2':
+        buy: 2.0
+        sell: 2.0
+        material: ROTTEN_FLESH
+      '3':
+        buy: 10.0
+        sell: 5.0
+        material: BONE_MEAL
+  head-shop:
+    items:
+      '1':
+        material: PLAYER_HEAD
+        skull: ewogICJ0aW1lc3RhbXAiIDogMTYwMzY5MTkyNTAyMSwKICAicHJvZmlsZUlkIiA6ICIwNjlhNzlmNDQ0ZTk0NzI2YTViZWZjYTkwZTM4YWFmNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJOb3RjaCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yOTIwMDlhNDkyNWI1OGYwMmM3N2RhZGMzZWNlZjA3ZWE0Yzc0NzJmNjRlMGZkYzMyY2U1NTIyNDg5MzYyNjgwIgogICAgfQogIH0KfQ==
+        buy: 100.0
+        sell: 20.0
+  misc_shop:
+    items:
+      '1':
+        buy: 1.0
+        sell: 1.0
+        material: STICK
+      '2':
+        buy: 3.0
+        sell: 3.0
+        material: STRING
+      '3':
+        buy: 1.0
+        sell: 1.0
+        material: FEATHER
+      '4':
+        buy: 5.0
+        sell: 10.0
+        material: GUNPOWDER
+      '5':
+        buy: 1.0
+        sell: 1.0
+        material: WHEAT_SEEDS
+      '6':
+        buy: 5.0
+        sell: 5.0
+        material: PUMPKIN_SEEDS
+      '7':
+        buy: 5.0
+        sell: 5.0
+        material: MELON_SEEDS
+      '8':
+        buy: 500.0
+        sell: 100.0
+        material: ENDER_EYE
+      '9':
+        buy: 15.0
+        sell: 10.0
+        material: GLOW_INK_SAC
+      '10':
+        buy: 50.0
+        sell: 10.0
+        material: WRITABLE_BOOK
+        book:
+          pages: []
+      '11':
+        buy: 5.0
+        sell: 10.0
+        material: RABBIT_HIDE
+      '12':
+        buy: 5.0
+        sell: 10.0
+        material: LEATHER
+      '13':
+        buy: 5.0
+        sell: 10.0
+        material: WHITE_WOOL
+      '14':
+        buy: 1.0
+        sell: 1.0
+        material: TORCH
+      '15':
+        buy: 2.0
+        sell: 2.0
+        material: SOUL_TORCH
+      '16':
+        buy: 10.0
+        sell: 10.0
+        material: LANTERN
+      '17':
+        buy: 10.0
+        sell: 10.0
+        material: SOUL_LANTERN
+      '18':
+        buy: 5.0
+        sell: 5.0
+        material: CAMPFIRE
+      '19':
+        buy: 5.0
+        sell: 5.0
+        material: SOUL_CAMPFIRE
+      '20':
+        buy: 2.0
+        sell: 2.0
+        material: CANDLE
+      '21':
+        buy: 2.0
+        sell: 0.0
+        material: ITEM_FRAME
+      '22':
+        buy: 2.0
+        sell: 0.0
+        material: GLOW_ITEM_FRAME
+      '23':
+        buy: 0.0
+        sell: 2.0
+        material: ROTTEN_FLESH
+      '24':
+        buy: 15.0
+        sell: 0.0
+        material: SADDLE
+      '25':
+        buy: 30.0
+        sell: 0.0
+        material: MINECART
+      '26':
+        buy: 30.0
+        sell: 10.0
+        material: SEA_LANTERN
+      '27':
+        buy: 1.0
+        sell: 0.0
+        material: CHAIN
+      '28':
+        buy: 3.0
+        sell: 0.0
+        material: IRON_BARS
+      '29':
+        buy: 5.0
+        sell: 5.0
+        material: BLACK_WOOL
+      '30':
+        buy: 5.0
+        sell: 0.0
+        material: BEETROOT_SEEDS
+  starter-packs-shop:
+    items:
+      '1':
+        buy: 20.0
+        sell: 0.0
+        material: SHULKER_BOX
+        name: The Bear Grylls
+        shulker:
+          '0':
+            material: COOKED_BEEF
+            amount: 64
+          '1':
+            material: IRON_SHOVEL
+          '2':
+            material: IRON_AXE
+          '3':
+            material: IRON_PICKAXE
